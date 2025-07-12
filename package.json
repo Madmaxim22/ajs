@@ -1,0 +1,19 @@
+{
+  "name": "@madmaxim22/ajs",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Madmaxim22/ajs.git"
+  },
+  "author": "Maksim Muhomedyarov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Madmaxim22/ajs/issues"
+  },
+  "homepage": "https://github.com/Madmaxim22/ajs#readme",
+  "description": ""
+}
